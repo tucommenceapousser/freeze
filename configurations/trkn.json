@@ -1,40 +1,20 @@
 {
   "window": true,
-  "theme": "monokai",  
-  "border": {
-    "radius": 10,
+  "theme": "charm",                                                     "border": {                                                             "radius": 10,
     "width": 3,
     "color": "#00FF00"
-  },
-  "shadow": {
-    "blur": 20,
-    "x": 5,
-    "y": 5
-  },
-  "padding": [
-    20,
-    30,
-    20,
+  },                                                                    "shadow": {                                                             "blur": 20,                                                           "x": 5,
+    "y": 5                                                              },
+  "padding": [                                                            20,
+    30,                                                                   20,
     30
-  ],
-  "margin": [
+  ],                                                                    "margin": [                                                             50,
     50,
     50,
-    50,
-    50
-  ],
-  "background": "#1e1e1e",
+    50                                                                  ],
   "font": {
-    "family": "Fira Code",
-    "size": 16,
-    "ligatures": true
-  },
-  "line_height": 1.4,
-  "highlight": {
-    "keywords": "#ff79c6",
-    "strings": "#50fa7b",
-    "comments": "#6272a4"
-  },
-  "show-line-numbers": true,
-  "font-weight": "normal"
+    "family": "JetBrains Mono",
+    "size": 16,                                                           "ligatures": true                                                   },
+  "line_height": 1.4,                                                   "highlight": {                                                          "keywords": "#ff79c6",                                                "strings": "#50fa7b",                                                 "comments": "#6272a4"                                               },
+  "show-line-numbers": true
 }
