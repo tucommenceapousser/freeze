@@ -1,0 +1,40 @@
+{
+  "window": true,
+  "theme": "monokai",  
+  "border": {
+    "radius": 10,
+    "width": 3,
+    "color": "#00FF00"  // Une bordure verte fluo
+  },
+  "shadow": {
+    "blur": 20,
+    "x": 5,
+    "y": 5
+  },
+  "padding": [
+    20,
+    30,
+    20,
+    30
+  ],
+  "margin": [
+    50,
+    50,
+    50,
+    50
+  ],
+  "background": "#1e1e1e",  // Fond sombre
+  "font": {
+    "family": "Fira Code",  // Police avec ligatures pour une lecture stylisée
+    "size": 16,
+    "ligatures": true  // Active les ligatures
+  },
+  "line_height": 1.4,
+  "highlight": {
+    "keywords": "#ff79c6",  // Couleur rose fluo pour les mots-clés
+    "strings": "#50fa7b",   // Couleur verte pour les chaînes de caractères
+    "comments": "#6272a4"   // Couleur bleue pour les commentaires
+  },
+  "show-line-numbers": true,
+  "font-weight": "normal"
+}
