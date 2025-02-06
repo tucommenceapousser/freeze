@@ -4,7 +4,7 @@
   "border": {
     "radius": 10,
     "width": 3,
-    "color": "#00FF00"  // Une bordure verte fluo
+    "color": "#00FF00"
   },
   "shadow": {
     "blur": 20,
@@ -23,17 +23,17 @@
     50,
     50
   ],
-  "background": "#1e1e1e",  // Fond sombre
+  "background": "#1e1e1e",
   "font": {
-    "family": "Fira Code",  // Police avec ligatures pour une lecture stylisée
+    "family": "Fira Code",
     "size": 16,
-    "ligatures": true  // Active les ligatures
+    "ligatures": true
   },
   "line_height": 1.4,
   "highlight": {
-    "keywords": "#ff79c6",  // Couleur rose fluo pour les mots-clés
-    "strings": "#50fa7b",   // Couleur verte pour les chaînes de caractères
-    "comments": "#6272a4"   // Couleur bleue pour les commentaires
+    "keywords": "#ff79c6",
+    "strings": "#50fa7b",
+    "comments": "#6272a4"
   },
   "show-line-numbers": true,
   "font-weight": "normal"
