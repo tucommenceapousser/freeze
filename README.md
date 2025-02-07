@@ -12,9 +12,29 @@ Generate images of code and terminal output.
   <a><img width="600" src="https://vhs.charm.sh/vhs-1C6z5SUKlTdqdj4KL1ADlH.gif" alt="Freeze code screenshot"></a>
 </p>
 
+<p align="left">
+  <a><img width="600" src="https://raw.githubusercontent.com/tucommenceapousser/freeze/refs/heads/main/freeze.svg" alt="Freeze code screenshot"></a>
+</p>
+
+
+
 ## Examples
 
 Freeze generates PNGs, SVGs, and WebPs of code and terminal output alike.
+
+# TRHACKNON's party
+
+```
+unzip Gohu.zip
+cp configurations/trkn.json ~/.config/freeze/trkn.json
+
+```bash
+freeze --shadow.blur 10 --shadow.x 0 --shadow.y 10 --font.ligatures true --font.file GohuFont14NerdFont-Regular.ttf --window  -l python -o freeze.svg --background "#000000" --border.width 4 --border.color "#ff0000" --border.radius 8
+```
+
+```bash
+freeze -c trkn.json
+```
 
 ### Generate an image of code
 
