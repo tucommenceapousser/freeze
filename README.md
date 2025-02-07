@@ -27,6 +27,7 @@ Freeze generates PNGs, SVGs, and WebPs of code and terminal output alike.
 ```
 unzip Gohu.zip
 cp configurations/trkn.json ~/.config/freeze/trkn.json
+```
 
 ```bash
 freeze --shadow.blur 10 --shadow.x 0 --shadow.y 10 --font.ligatures true --font.file GohuFont14NerdFont-Regular.ttf --window  -l python -o freeze.svg --background "#000000" --border.width 4 --border.color "#ff0000" --border.radius 8
